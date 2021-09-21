@@ -215,7 +215,7 @@ a, a:hover {
         /* padding: 5px; */
         border-bottom: 2px solid #eee;
         float: left;
-        position: relative;
+        position: static;
     }
 .col-6 ul {
         width: 100%;
